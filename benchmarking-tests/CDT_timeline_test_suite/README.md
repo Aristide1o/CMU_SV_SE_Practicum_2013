@@ -4,7 +4,7 @@ This test suite includes 8 HTML files with simple UI operations. All the HTML fi
 ##Benchmarking workflow
 To capture benchmarking data:
 
-1. Open the HTML file in a browser
+1. Open the HTML file in Google chrome
 2. Start the chrome developer tools (CDT) and go to the timeline tab
 3. Click the record circle
 4. Click the `Start test` button; wait until the message that the test is finished appears
